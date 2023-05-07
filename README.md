@@ -1,2 +1,1 @@
-# moegirl_Ad_off
-Remove Specific Element on Moegirlpedia
+使用AdBlock时，萌娘百科会有弹窗。安装该脚本之后，可以自动点击关闭按钮，关闭弹窗。
